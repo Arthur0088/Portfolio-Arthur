@@ -68,7 +68,7 @@ strong{
 @media (max-width:400px){
     .nav-item{
         justify-content: space-between;
-        font-size: 10px;
+        font-size: 12px;
     }
     .card{
         width:100% ;
